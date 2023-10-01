@@ -73,7 +73,7 @@ Potential improvements:
 pip install -r requirements.txt
 ```
 
-2. Download and unzip  the `recommendations.zip` and `forecasting.zip` inside the data folder.
+2. Download and unzip  the `recommendations.zip` and `forecasting.zip` inside the `$project_root/data/` folder.
 
 3. Then you can run the 2 jupyter notebooks with `jupyter notebook` command.
 
