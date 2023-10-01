@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/781619a8a4604526b0d936396e8ead40/artifacts
+end_time: 1696161621534
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: 781619a8a4604526b0d936396e8ead40
+run_name: K Neighbors Regressor
+run_uuid: 781619a8a4604526b0d936396e8ead40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696161621500
+status: 3
+tags: []
+user_id: andreicap

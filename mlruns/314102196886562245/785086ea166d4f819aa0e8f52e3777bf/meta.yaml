@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/785086ea166d4f819aa0e8f52e3777bf/artifacts
+end_time: 1696164536493
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: 785086ea166d4f819aa0e8f52e3777bf
+run_name: Linear Regression
+run_uuid: 785086ea166d4f819aa0e8f52e3777bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696164536120
+status: 3
+tags: []
+user_id: andreicap

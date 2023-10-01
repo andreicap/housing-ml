@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/2cd7e643067c44c4ac82a0b58ef4b175/artifacts
+end_time: 1696164445642
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: 2cd7e643067c44c4ac82a0b58ef4b175
+run_name: Extreme Gradient Boosting
+run_uuid: 2cd7e643067c44c4ac82a0b58ef4b175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696164445425
+status: 3
+tags: []
+user_id: andreicap
