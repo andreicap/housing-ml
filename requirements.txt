@@ -6,3 +6,5 @@ mlflow
 openai[datalib]
 langdetect
 nltk
+jupyter
+ipykernel

@@ -8,8 +8,6 @@
 
 There are 2 approaches tried: regression and time series forecasting.
 
-> run `mlflow ui` in the terminal to see the history of model comparisons and runs
-
 ### Regression
 The regression predictor is meant to be used inline to predict the price of an estate, e.g. by an user introducing the required parameters (space size, type of buidling etc.)
 
@@ -57,6 +55,29 @@ I eneded up using the `surprise` package, after trying  also the `SVDS` from `sc
 
 It compares 2 models: `KNNWithMeans` and `SVD`. Further testing is required to determined the better model (for this test set they were very similar).
 
+Potential improvements:
+* try more methods for recommender systems
+* try classical ML for ranking 
+* user a more powerful machine that can run on the whole dataset
+
+## Next Steps
+* move the code from jupyter notebooks to python files (for deployment)
+* build inferrence pipeline (model consumption)
+* build the respective dashboard/interfaces to make the results accessible by everyone
+
+
+## Running instructions:
+
+1. Create a new and enviroment, and run:
+```bash
+pip install -r requirements.txt
+```
+
+2. Download and unzip  the `recommendations.zip` and `forecasting.zip` inside the data folder.
+
+3. Then you can run the 2 jupyter notebooks with `jupyter notebook` command.
+
+4. Run `mlflow ui` in the terminal to see the history of model comparisons and runs (for the price forecasting only)
 
 
 
