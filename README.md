@@ -18,13 +18,14 @@ Potential improvements:
 * improve the current feature extraction
 * try more methods/models
 * use a gridsearch for hyperparameter tuning
-* determine the metric that presents the most interest to the business/user and optimize for that
-
+* determine the metric that presents the most interest to the business/user and optimize for it
 
 ### Time Series Forecasting
 The time series forecasting is meant to be used both in-house and by potential clients, for future insights for better decision-making.
 
 The forectasting is done using `Pycaret`, for automatized model selection and feature engineering.
+The winning model was Auto Arima. The metrics and forecast plots are present in the 
+[price_forecast.ipynb](price_forecast.ipynb), **Time Series** section.
 
 Potential improvements:
 * try multivariate forecasting
@@ -46,7 +47,7 @@ The sentiment analyzer returns a score from -1 to 1, representing the *rating* o
 
 Potential improvements:
 * use ChatGPT/LLMs for comment tagging (example provided in the notebook ChatGPT Tagging section). More granular sentiment per topic ca be extracted (e.g. a user might like the cleaniness but no the location)
-* use a faster language detection algorithm and/or parallelize the run (took 1h to run)
+* use a faster language detection algorithm and/or parallelize the run (took >1h to run)
 
 ### Recommender System
 
