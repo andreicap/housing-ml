@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/dcde4828537c4c618ea2e18bb30f731a/artifacts
+end_time: 1696156011836
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: dcde4828537c4c618ea2e18bb30f731a
+run_name: Random Forest Regressor
+run_uuid: dcde4828537c4c618ea2e18bb30f731a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696156011803
+status: 3
+tags: []
+user_id: andreicap

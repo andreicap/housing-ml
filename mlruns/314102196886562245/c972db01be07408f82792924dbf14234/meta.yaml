@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/c972db01be07408f82792924dbf14234/artifacts
+end_time: 1696153234863
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: c972db01be07408f82792924dbf14234
+run_name: Dummy Regressor
+run_uuid: c972db01be07408f82792924dbf14234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696153234836
+status: 3
+tags: []
+user_id: andreicap

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/ab50e95fdb0649108d153c79c12a2c02/artifacts
+end_time: 1696153354427
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: ab50e95fdb0649108d153c79c12a2c02
+run_name: Ridge Regression
+run_uuid: ab50e95fdb0649108d153c79c12a2c02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696153354380
+status: 3
+tags: []
+user_id: andreicap

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/3be076b18bdc415d8e826f6a92ec896a/artifacts
+end_time: 1696153235286
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: 3be076b18bdc415d8e826f6a92ec896a
+run_name: Decision Tree Regressor
+run_uuid: 3be076b18bdc415d8e826f6a92ec896a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696153235257
+status: 3
+tags: []
+user_id: andreicap

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/4439bbb4f23b4ba3b319f17d645b71ea/artifacts
+end_time: 1696154421227
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: 4439bbb4f23b4ba3b319f17d645b71ea
+run_name: Bayesian Ridge
+run_uuid: 4439bbb4f23b4ba3b319f17d645b71ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696154421195
+status: 3
+tags: []
+user_id: andreicap

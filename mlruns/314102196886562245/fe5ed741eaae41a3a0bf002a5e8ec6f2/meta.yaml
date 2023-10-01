@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/fe5ed741eaae41a3a0bf002a5e8ec6f2/artifacts
+end_time: 1696153354970
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: fe5ed741eaae41a3a0bf002a5e8ec6f2
+run_name: Orthogonal Matching Pursuit
+run_uuid: fe5ed741eaae41a3a0bf002a5e8ec6f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696153354940
+status: 3
+tags: []
+user_id: andreicap

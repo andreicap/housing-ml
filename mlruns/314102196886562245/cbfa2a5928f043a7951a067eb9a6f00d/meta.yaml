@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/cbfa2a5928f043a7951a067eb9a6f00d/artifacts
+end_time: 1696153595647
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: cbfa2a5928f043a7951a067eb9a6f00d
+run_name: Passive Aggressive Regressor
+run_uuid: cbfa2a5928f043a7951a067eb9a6f00d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696153595617
+status: 3
+tags: []
+user_id: andreicap

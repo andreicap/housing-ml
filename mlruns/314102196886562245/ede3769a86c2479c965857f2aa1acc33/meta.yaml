@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/ede3769a86c2479c965857f2aa1acc33/artifacts
+end_time: 1696153595418
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: ede3769a86c2479c965857f2aa1acc33
+run_name: Elastic Net
+run_uuid: ede3769a86c2479c965857f2aa1acc33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696153595388
+status: 3
+tags: []
+user_id: andreicap

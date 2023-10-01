@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/2f821da984e641aba9be0bb84e23a61d/artifacts
+end_time: 1696155264381
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: 2f821da984e641aba9be0bb84e23a61d
+run_name: CatBoost Regressor
+run_uuid: 2f821da984e641aba9be0bb84e23a61d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696155264353
+status: 3
+tags: []
+user_id: andreicap

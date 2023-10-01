@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/6446ec53c8fa45c5b0ff89d14c54e615/artifacts
+end_time: 1696154420862
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: 6446ec53c8fa45c5b0ff89d14c54e615
+run_name: Lasso Least Angle Regression
+run_uuid: 6446ec53c8fa45c5b0ff89d14c54e615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696154420830
+status: 3
+tags: []
+user_id: andreicap

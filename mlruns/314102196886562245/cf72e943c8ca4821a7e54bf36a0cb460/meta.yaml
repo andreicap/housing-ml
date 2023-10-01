@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/cf72e943c8ca4821a7e54bf36a0cb460/artifacts
+end_time: 1696153234971
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: cf72e943c8ca4821a7e54bf36a0cb460
+run_name: Gradient Boosting Regressor
+run_uuid: cf72e943c8ca4821a7e54bf36a0cb460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696153234939
+status: 3
+tags: []
+user_id: andreicap

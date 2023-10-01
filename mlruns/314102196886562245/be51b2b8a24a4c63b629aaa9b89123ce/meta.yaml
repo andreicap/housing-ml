@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/be51b2b8a24a4c63b629aaa9b89123ce/artifacts
+end_time: 1696153354559
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: be51b2b8a24a4c63b629aaa9b89123ce
+run_name: Least Angle Regression
+run_uuid: be51b2b8a24a4c63b629aaa9b89123ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696153354527
+status: 3
+tags: []
+user_id: andreicap
