@@ -1,0 +1,8 @@
+numpy
+pandas
+pycaret
+scikit-learn
+mlflow
+openai[datalib]
+langdetect
+nltk

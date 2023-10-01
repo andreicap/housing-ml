@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/278754404325795799/9a672933046649d8a2a00677fab9c645/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '278754404325795799'
+lifecycle_stage: active
+run_id: 9a672933046649d8a2a00677fab9c645
+run_name: Session Initialized 9441
+run_uuid: 9a672933046649d8a2a00677fab9c645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696188972651
+status: 1
+tags: []
+user_id: andreicap

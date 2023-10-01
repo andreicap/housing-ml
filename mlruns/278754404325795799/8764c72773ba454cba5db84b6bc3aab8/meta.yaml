@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/278754404325795799/8764c72773ba454cba5db84b6bc3aab8/artifacts
+end_time: 1696188988522
+entry_point_name: ''
+experiment_id: '278754404325795799'
+lifecycle_stage: active
+run_id: 8764c72773ba454cba5db84b6bc3aab8
+run_name: Huber Regressor
+run_uuid: 8764c72773ba454cba5db84b6bc3aab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696188988489
+status: 3
+tags: []
+user_id: andreicap
