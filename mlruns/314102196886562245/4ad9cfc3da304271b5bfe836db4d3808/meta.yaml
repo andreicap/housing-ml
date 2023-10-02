@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andreicap/Desktop/smg/mlruns/314102196886562245/4ad9cfc3da304271b5bfe836db4d3808/artifacts
+end_time: 1696273042155
+entry_point_name: ''
+experiment_id: '314102196886562245'
+lifecycle_stage: active
+run_id: 4ad9cfc3da304271b5bfe836db4d3808
+run_name: Light Gradient Boosting Machine
+run_uuid: 4ad9cfc3da304271b5bfe836db4d3808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696273042116
+status: 3
+tags: []
+user_id: andreicap
