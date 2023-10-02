@@ -80,7 +80,16 @@ pip install -r requirements.txt
 
 4. Run `mlflow ui` in the terminal to see the history of model comparisons and runs (for the price forecasting only)
 
+5. To run the UI:
+```sh
+cd dashboard
+streamlit run pice_model.py
+```
 
+#### Streamlit app:
+![UI](screenshots/streamlit_ui.png)
 
+#### MLFlow UI:
+![Alt text](screenshots/mlflow-ui.png)
 
 
