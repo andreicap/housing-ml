@@ -1,8 +1,21 @@
 import streamlit as st
 import pandas as pd
 from pycaret.classification import load_model, predict_model
+import streamlit.components.v1 as components
 
 model = load_model("../housing-price-regression")
+ts_model = load_model("../ts-price-forecast")
+
+st.set_page_config(
+    page_title="Streamlit cheat sheet",
+    layout="wide",
+)
+
+
+with st.container():
+    st.title("Next year forecast")
+    html_plot = open("ts-price-forecast.html", "r").read()
+    components.html(html_plot, height=500)
 
 with st.container():
     st.title("Price prediction")
@@ -36,7 +49,7 @@ with st.container():
         ),
     )
 
-    space = st.number_input("Space (sqml)", min_value=1, max_value=2500)
+    space = st.slider("Space (sqml)", min_value=1, max_value=2500)
 
 
 # Predict the output
